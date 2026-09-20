@@ -3,7 +3,7 @@
 Software engineer and computational physicist combining code, physics, and hardware.
 
 **B.S. Physics** · preparing for **M.S. Electrical Engineering** (with a focus on autonomous spacecraft systems)  
-7+ years programming · 2+ years Fortune 500 software & IOT / embedded systems
+7+ years programming · 2+ years enterprise software & IOT / embedded systems
 
 Computational astrophysics research (large quasar spectra datasets, ML pipelines)
 
