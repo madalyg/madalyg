@@ -1,4 +1,4 @@
-# Madaly Gregory
+# Madaly G
 
 Software engineer and computational physicist combining code, physics, and hardware.
 
