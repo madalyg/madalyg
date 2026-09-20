@@ -39,7 +39,7 @@ Linux · Git · Docker · REST APIs · SQL (PostgreSQL) · AWS · Node.js
 Microcontrollers · Arduino prototyping · optical sensors · laser optics · optical sensors · DC power systems · Fusion 360 · 3D printing · soldering & bench EE
 
 **Currently building toward**  
-MATLAB/Simulink · GMAT · performance-oriented c++ simulations
+MATLAB/Simulink · performance-oriented c++ simulations · flight dynamics
 
 
 ### Some things I love
