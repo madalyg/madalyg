@@ -7,11 +7,14 @@ Software engineer and computational physicist combining code, physics, and hardw
 
 Computational astrophysics research (large quasar spectra datasets, ML pipelines)
 
+
 Seattle · first-generation college graduate and WSOS Scholar
+
 
 **Portfolio:** [madaly.space](https://madaly.space)  
 **LinkedIn:** [linkedin.com/in/madalyg](https://linkedin.com/in/madalyg)  
 **Email:** madalygregory@gmail.com
+
 
 ### Selected work
 
