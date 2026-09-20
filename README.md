@@ -24,6 +24,24 @@ Seattle · first-generation college graduate and WSOS Scholar
 - [rocket_operation_sim](https://github.com/madalyg/rocket_operation_sim) — rocket flight dynamics / GNC simulation (C++)
 
 
+### Tech stack
+
+**Languages**  
+Python · C++ · Java · TypeScript
+
+**Scientific computing & ML**  
+NumPy · SciPy · Pandas · Matplotlib · Monte Carlo simulation · signal processing (FFT, denoising) · PyTorch · scikit-learn · convolutional autoencoders · large-scale scientific data pipelines
+
+**Software & cloud**  
+Linux · Git · Docker · REST APIs · SQL (PostgreSQL) · AWS · Node.js
+
+**Hardware & embedded**  
+Microcontrollers · Arduino prototyping · optical sensors · laser optics · optical sensors · DC power systems · Fusion 360 · 3D printing · soldering & bench EE
+
+**Currently building toward**  
+MATLAB/Simulink · GMAT · performance-oriented c++ simulations
+
+
 ### Some things I love
 Aviation, language learning (💬 English, French, Italian, Spanish), exploring the world, weightlifting, alpine hiking, fashion, and writing
 
