@@ -42,8 +42,10 @@ Microcontrollers · Arduino prototyping · optical sensors · laser optics · op
 MATLAB/Simulink · performance-oriented c++ simulations · flight dynamics
 
 
+💬 English, French, Italian, Spanish
+
 ### Some things I love
-Aviation, language learning (💬 English, French, Italian, Spanish), exploring the world, weightlifting, alpine hiking, fashion, and writing
+Aviation, language learning, exploring the world, weightlifting, mountain hiking, fashion, and writing
 
 <!--
 **madalyg/madalyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
