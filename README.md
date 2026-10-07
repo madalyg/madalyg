@@ -5,7 +5,7 @@ Software engineer and computational physicist combining code, physics, and hardw
 **B.S. Physics** · preparing for **M.S. Electrical Engineering** (with a focus on autonomous spacecraft systems)  
 7+ years programming · 2+ years enterprise software & IOT / embedded systems
 
-Computational astrophysics research (large quasar spectra datasets, ML pipelines)
+Computational astrophysics research (large quasar spectra datasets, pipelines with ML integration)
 
 
 Seattle · first-generation college graduate and WSOS Scholar
@@ -36,7 +36,7 @@ NumPy · SciPy · Pandas · Matplotlib · Monte Carlo simulation · signal proce
 Linux · Git · Docker · REST APIs · SQL (PostgreSQL) · AWS · Node.js
 
 **Hardware & embedded**  
-Microcontrollers · Arduino prototyping · optical sensors · laser optics · optical sensors · DC power systems · Fusion 360 · 3D printing · soldering & bench EE
+Microcontrollers · Arduino prototyping · optical sensors · laser optics · DC power systems · Fusion 360 · 3D printing · soldering & bench EE
 
 **Currently building toward**  
 MATLAB/Simulink · performance-oriented c++ simulations · flight dynamics
