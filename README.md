@@ -2,10 +2,10 @@
 
 Software engineer and early career computational physicist combining code, physics, and hardware.
 
-**B.S. Physics** · preparing for **M.S. Electrical Engineering** (with a focus on autonomous spacecraft systems)  
+**B.S. Physics** · preparing for **M.S. Electrical & Computer Engineering** (with a focus on autonomous spacecraft systems)  
 7+ years programming · 2+ years enterprise software & IOT / embedded systems
 
-Computational astrophysics research (large quasar spectra datasets, pipelines with ML integration)
+Automating computational astrophysics research (large quasar spectra datasets, pipelines with ML integration)
 
 
 Seattle · first-generation college graduate and WSOS Scholar
