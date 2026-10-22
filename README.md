@@ -21,7 +21,7 @@ Seattle · first-generation college graduate and WSOS Scholar
 - [SpenderQ-LYA](https://github.com/madalyg/SpenderQ-LYA) — ML pipeline for large quasar spectroscopic catalogs (SpenderQ / convolutional autoencoder)
 - [Synapse](https://github.com/madalyg/Synapse) — AI task prioritization with Google Calendar/Tasks
 - [TimeSlice](https://github.com/madalyg/TimeSlice) — AI daily planning assistant
-- [rocket_operation_sim](https://github.com/madalyg/rocket_operation_sim) — rocket flight dynamics / GNC simulation (C++)
+- [rocket_operation_sim](https://github.com/madalyg/rocket_operation_sim) — rocket flight dynamics / GNC simulation (C++); Implements RK4 integration and automated testing
 
 
 ### Tech stack
