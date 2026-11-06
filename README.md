@@ -27,10 +27,10 @@ Seattle · first-generation college graduate and WSOS Scholar
 ### Tech stack
 
 **Languages**  
-Python · C++ · Java · TypeScript
+Python · C++ · Java · JS/TS
 
 **Scientific computing & ML**  
-NumPy · SciPy · Pandas · Matplotlib · Monte Carlo simulation · signal processing (FFT, denoising) · PyTorch · scikit-learn · convolutional autoencoders · large-scale scientific data pipelines
+NumPy · SciPy · Pandas · Matplotlib · Monte Carlo simulation · signal processing (FFT, denoising) · PyTorch · scikit-learn · convolutional autoencoders · large-scale scientific data pipelines · RK4
 
 **Software & cloud**  
 Linux · Git · Docker · REST APIs · SQL (PostgreSQL) · AWS · Node.js
